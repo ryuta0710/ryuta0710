@@ -1,5 +1,4 @@
-# LEVY OMOLO (omololevy)
-
+# Ryuta Okuno (ryuta)
 
 <div align="center">
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
@@ -9,11 +8,10 @@
  </div><br>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=omololevy&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="omololevy" /> </p>
 
-
 <!-- GREETING  -->
 <h3 align="center">
   Hello! Welcome to my profile.<br> *****
-             
+
 
 <p align="center">
   <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20cotechlevy@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
@@ -29,6 +27,7 @@
 <a href="https://www.researchgate.net/profile/Levy-Omolo-2"><img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
 
 <a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+
 </p><br>
 
 <!-- BADGES -->
@@ -40,23 +39,22 @@
 <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
 </p><br>
 
-
 <div align="center">
 
-## 🎓📚 Education 
+## 🎓📚 Education
+
 ![](https://img.shields.io/badge/maseno_universty-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
-  ![](https://img.shields.io/badge/moringa_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
- ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) ![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
- 
- ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+![](https://img.shields.io/badge/moringa_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
+![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) ![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
+
+![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 </div>
-
-
 
 </h3> <br><br>
 
 ## Skills and Tools
+
 <div align="center">
   <table>
     <thead>
@@ -191,11 +189,8 @@
   </table>
 </div>
 
-
-
-
-
 ## 📊 GitHub Statistics
+
 <table>
 <tr>
 <td>
@@ -223,9 +218,7 @@
       </tr>
 <td align="center">
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
-
 
 </td>
 <td align="center">
