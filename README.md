@@ -37,7 +37,7 @@
 ## Skills and Tools
 
 <div align="center">
-  <table style="overflow: hidden;">
+  <table>
     <thead>
       <tr>
         <th colspan="5">Languages</th>
@@ -76,7 +76,6 @@
       <td align="center" width=110>MySQL</td>
       <td align="center" width=110>SQLite</td>
     </tr>
-    <tr>
   </table>
 
   <table>
