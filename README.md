@@ -120,5 +120,5 @@
 
 <hr>
 <div align="center">
-  <img align="right" src="code.gif" width="350" height="190" />
+  <img align="center" src="code.gif" width="350" height="190" />
 </div>
