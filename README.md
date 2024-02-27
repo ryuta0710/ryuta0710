@@ -103,7 +103,7 @@
 
 ## 📊 GitHub Statistics
 
-<table>
+<table style="overflow:hidden">
 <tr>
 <td>
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryuta0710"/>
