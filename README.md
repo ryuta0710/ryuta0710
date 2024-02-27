@@ -81,8 +81,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="3">Frameworks & Libraries </th>
-        <th colspan="3">Agile Methodologies</th>
+        <th colspan="6">Frameworks & Libraries </th>
       </tr>
     </thead>
     <tr>
@@ -117,17 +116,9 @@
 <tr>
 </table>
 
-<table>
-<tr>
-        <th colspan="7"><a href="https://github.com/ryuta/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
-      </tr>
-<td align="center">
+<a href="https://github.com/ryuta/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 
-[](https://git.io/streak-stats)
-
-</td>
-<td align="center">
+<hr>
+<div align="center">
   <img align="right" src="code.gif" width="350" height="190" />
-</td>
-</tr>
-</table>
+</div>
