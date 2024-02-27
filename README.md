@@ -116,7 +116,7 @@
 <tr>
 </table>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22">
 
 <hr>
 <div align="center">
