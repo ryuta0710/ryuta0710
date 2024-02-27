@@ -40,20 +40,20 @@
   <table>
     <thead>
       <tr>
-        <th colspan="7">Languages</th>
+        <th colspan="5">Languages</th>
       </tr>
     </thead>
     <tr>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg"  width="56" height="56" />
- </td>
+      </td>
       <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="icon" width="60" height="60" /> </td>
       <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height='60px'/>
- </td>
+      </td>
       <td align="center" width=110> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height='60px'/>
-           </td>
+      </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vyper/vyper-original.svg" height='60px'/>
-</td>
+      </td>
     </tr>
     <tr> 
       <td align="center" width=110>Solidity</td>
@@ -68,8 +68,6 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
-      <td align="center" width=110></td>
-      <td align="center" width=110></td>
     </tr>
     <tr> 
       <td align="center" width=110>JavaScript</td>
