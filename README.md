@@ -6,7 +6,7 @@
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
- </div><br>
+ </div>
 <!-- GREETING  -->
 <h3 align="center">Hello! Welcome to my profile.
 <br> *****
