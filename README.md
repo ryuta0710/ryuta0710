@@ -12,7 +12,7 @@
 <br> *****
 </h3>
 <p align="center">
-  <a href="https://github.com/ryuta0710/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20ryuta960710@gmail.com;I%20am%20ready%20for%20collaboration.&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20ryuta960710@gmail.com;I%20am%20ready%20for%20collaboration.&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22">
 </p>
 
 <div align="center"> Social and Contact Info. </div><br>
