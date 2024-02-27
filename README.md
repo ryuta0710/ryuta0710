@@ -37,7 +37,7 @@
 ## Skills and Tools
 
 <div align="center">
-  <table>
+  <table style="overflow: hidden;">
     <thead>
       <tr>
         <th colspan="5">Languages</th>
