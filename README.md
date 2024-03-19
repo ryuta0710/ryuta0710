@@ -127,7 +127,7 @@
 </video>
 
             
-            https://github.com/ryuta0710/ryuta0710/main/assets/Video_2024-03-20_083833.mp4
+            [https://github.com/ryuta0710/ryuta0710/main/assets/Video_2024-03-20_083833.mp4](https://github.com/ryuta0710/ryuta0710/raw/main/assets/Video_2024-03-20_083833.mp4)
             
 <video width="320" height="240" controls>
   <source src="assets/Video_2024-03-20_083833.mp4" type="video/mp4">
