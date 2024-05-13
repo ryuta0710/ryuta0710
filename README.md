@@ -54,8 +54,8 @@
       <td align="center" width=110>Solidity</td>
       <td align="center" width=110>Rust</td>
       <td align="center" width=110>C++</td>
-      <td align="center" width=110>Go</td>
       <td align="center" width=110>Python</td>
+      <td align="center" width=110>Go</td>
     </tr>
     <tr>
       <td align="center" width=110><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
