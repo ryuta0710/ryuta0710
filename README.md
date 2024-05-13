@@ -8,21 +8,18 @@
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
  </div>
 <!-- GREETING  -->
-<h3 align="center">Hello! Welcome to my profile.
+<!-- <h3 align="center">Hello! Welcome to my profile.
 <br> *****
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20ryuta960710@gmail.com;I%20am%20ready%20for%20collaboration.&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22">
 </p>
-
 <div align="center"> Social and Contact Info. </div><br>
   <p align="center">
 <a href="https://ryuta0710.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
 <a href="mailto: ryuta960710@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
-<!-- <a href="https://www.hackerrank.com/levy_omolo"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp; -->
-
-</p><br>
-
+</p><br> -->
+<!-- 
 <div align="center">
 
 ## 🎓📚 Education
@@ -30,9 +27,7 @@
 ![](https://img.shields.io/badge/kagoshima_unviersity_-8_7CF3E?style=for-the-badge&logo=maseno&logoColor=white)
 ![](https://img.shields.io/badge/Kagoshima_nishi_senior_high_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
 
-</div>
-
-</h3>
+</div> -->
 
 ## Skills and Tools
 
@@ -100,7 +95,7 @@
     </tr>
   </table>
 </div>
-
+<!-- 
 ## 📊 GitHub Statistics
 
 <table style="overflow:hidden">
@@ -138,4 +133,4 @@ https://github.com/ryuta0710/ryuta0710/raw/main/assets/Video_2024-03-20_083833.m
   <source src="assets/Video_2024-03-20_083833.mp4" type="video/mp4">
 </video>
 
-</div>
+</div> -->
