@@ -47,7 +47,7 @@
       <td align="center" width=110> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height='60px'/>
       </td>
-      <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vyper/vyper-original.svg" height='60px'/>
+      <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='60px'/>
       </td>
     </tr>
     <tr> 
@@ -55,7 +55,7 @@
       <td align="center" width=110>Rust</td>
       <td align="center" width=110>C++</td>
       <td align="center" width=110>Go</td>
-      <td align="center" width=110>Vyper</td>
+      <td align="center" width=110>Python</td>
     </tr>
     <tr>
       <td align="center" width=110><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
