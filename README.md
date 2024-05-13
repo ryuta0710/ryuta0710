@@ -58,11 +58,11 @@
       <td align="center" width=110>Vyper</td>
     </tr>
     <tr>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
-      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
+      <td align="center" width=110><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+      <td align="center" width=110><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>JavaScript</td>
@@ -85,6 +85,7 @@
       <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></td>
       <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" /></td>
       <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></td>
+    </tr>
       <tr align="center"> 
         <td align="center" width=110>React</td>
         <td align="center" width=110>Vue</td>
@@ -92,7 +93,6 @@
         <td align="center" width=110>Nuxt</td>
         <td align="center" width=110>Nest</td>
       </tr>
-    </tr>
   </table>
 </div>
 <!-- 
