@@ -29,8 +29,8 @@
 
 </div> -->
 
-## Skills and Tools
 <!--
+## Skills and Tools
 <div align="center">
   <table>
     <thead>
